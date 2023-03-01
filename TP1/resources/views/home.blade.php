@@ -4,6 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Home</title>
+    <style type="text/css">
+        a{
+            display: block;
+            text-align: center;
+            font-size: 1.5rem;
+            color: purple;
+        }
+    </style>
 </head>
 <body>
     <h1 style="text-align: center;">TP1 Home</h1>
