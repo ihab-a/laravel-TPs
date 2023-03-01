@@ -44,9 +44,9 @@
 
 	<form action="/thanks" method="POST">
 		@csrf
-		<input type="text" name="name"/>
-		<input type="text" name="email"/>
-		<textarea type="" name="msg"></textarea>
+		<input type="text" name="name" placeholder="name" />
+		<input type="text" name="email" placeholder="email" />
+		<textarea type="" name="msg" placeholder="msg" ></textarea>
 		<input type="submit" value="ok"/>
 	</form>
 </body>
